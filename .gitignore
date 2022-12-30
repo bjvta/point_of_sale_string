@@ -1,0 +1,6 @@
+*.gem
+*.rbc
+
+# Ignore Byebug command history file.
+.byebug_history
+.idea/

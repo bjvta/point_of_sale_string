@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require './lib/get_prices_detail_service'
-require 'byebug'
 
 # lib/update_prices_and_taxes_service.rb
 class UpdatePricesAndTaxesService

@@ -2,7 +2,6 @@
 
 require './lib/get_tax_percentage_service'
 require './lib/rounded_tax_price'
-require 'byebug'
 
 # lib/get_prices_detail_service.rb
 class GetPricesDetailService

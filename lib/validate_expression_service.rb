@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require './errors/expression_error'
-require 'byebug'
 
 # lib/validate_expression_service.rb
 class ValidateExpressionService

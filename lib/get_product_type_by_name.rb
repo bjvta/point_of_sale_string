@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'byebug'
-
 # lib/get_product_type_by_name.rb
 class GetProductTypeByName
   PRODUCTS_BY_CATEGORY = {
